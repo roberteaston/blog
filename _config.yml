@@ -1,5 +1,5 @@
 baseurl: "/tufte-jekyll"
-url: "https://roberteaston.github.io"
+# url: "https://roberteaston.github.io"
 title: Tufte-Jekyll
 subtitle: Content-centric blogging
 author: clay harmon

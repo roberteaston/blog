@@ -3,10 +3,10 @@
   <channel>
     <title>Tufte-Jekyll</title>
     <description>A Jekyll theme for content-rich sites</description>
-    <link>/tufte-jekyll/</link>
-    <atom:link href="/tufte-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Aug 2021 17:09:11 -0400</pubDate>
-    <lastBuildDate>Fri, 13 Aug 2021 17:09:11 -0400</lastBuildDate>
+    <link>https://roberteaston.github.io/tufte-jekyll/</link>
+    <atom:link href="https://roberteaston.github.io/tufte-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 13 Aug 2021 17:11:03 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Aug 2021 17:11:03 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -164,8 +164,8 @@ using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are n
 &lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/tufte-jekyll/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Mon, 13 Apr 2020 13:04:01 -0400</pubDate>
-        <link>/tufte-jekyll/articles/20/Edge-Cases</link>
-        <guid isPermaLink="true">/tufte-jekyll/articles/20/Edge-Cases</guid>
+        <link>https://roberteaston.github.io/tufte-jekyll/articles/20/Edge-Cases</link>
+        <guid isPermaLink="true">https://roberteaston.github.io/tufte-jekyll/articles/20/Edge-Cases</guid>
         
         
         <category>post</category>
@@ -624,8 +624,8 @@ etc...
 
 </description>
         <pubDate>Mon, 13 Apr 2020 05:46:04 -0400</pubDate>
-        <link>/tufte-jekyll/articles/20/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">/tufte-jekyll/articles/20/tufte-style-jekyll-blog</guid>
+        <link>https://roberteaston.github.io/tufte-jekyll/articles/20/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">https://roberteaston.github.io/tufte-jekyll/articles/20/tufte-style-jekyll-blog</guid>
         
         
         <category>jekyll</category>

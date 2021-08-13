@@ -3,10 +3,10 @@
   <channel>
     <title>Tufte-Jekyll</title>
     <description>A Jekyll theme for content-rich sites</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 13 Aug 2021 17:03:31 -0400</pubDate>
-    <lastBuildDate>Fri, 13 Aug 2021 17:03:31 -0400</lastBuildDate>
+    <link>/tufte-jekyll/</link>
+    <atom:link href="/tufte-jekyll/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 13 Aug 2021 17:09:11 -0400</pubDate>
+    <lastBuildDate>Fri, 13 Aug 2021 17:09:11 -0400</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -161,11 +161,11 @@ using the standard Kramdown parser. Some examples sent to me by Quxiaofeng are n
 &lt;p&gt;This code: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{% fullwidth &quot;assets/img/rhino.png&quot; &quot;Tuftes pet rhino (via &amp;lt;a href=\&quot;//www.edwardtufte.com/tufte/\&quot;&amp;gt;Edward Tufte&amp;lt;/a&amp;gt;)&quot;  %}&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;produces the following image with a title. Notice that I have had to escape the double quotes in the HTML with a backslash. Also, the example above leaves out the single quote in ‘Tufte’s” because of the topsy-turvy way that you have to escape the escapes in code sections that are used for illustrative purposes in this text. Bottom line is that there are occasionally some odd interactions between the Markdown parser, custom &lt;em&gt;Liquid&lt;/em&gt; tags and HTML.&lt;/p&gt;
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/tufte-jekyll/assets/img/rhino.png&quot; /&gt;&lt;figcaption&gt;Tufte&amp;#8217;s pet rhino (via &lt;a href=&quot;//www.edwardtufte.com/tufte/&quot;&gt;Edward Tufte&lt;/a&gt;)&lt;/figcaption&gt;&lt;/figure&gt;
 </description>
         <pubDate>Mon, 13 Apr 2020 13:04:01 -0400</pubDate>
-        <link>/articles/20/Edge-Cases</link>
-        <guid isPermaLink="true">/articles/20/Edge-Cases</guid>
+        <link>/tufte-jekyll/articles/20/Edge-Cases</link>
+        <guid isPermaLink="true">/tufte-jekyll/articles/20/Edge-Cases</guid>
         
         
         <category>post</category>
@@ -274,7 +274,7 @@ $link-style: color; // choices are 'color' or 'underline'. Default is color usin
 
 &lt;h3 id=&quot;margin-figures&quot;&gt;Margin Figures&lt;/h3&gt;
 
-&lt;p&gt;&lt;label for=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/assets/img/rhino.png&quot; /&gt;&lt;br /&gt;F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” &lt;em&gt;Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice&lt;/em&gt; (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s &lt;em&gt;Visual Explanations&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;label for=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot;&gt;⊕&lt;/label&gt;&lt;input type=&quot;checkbox&quot; id=&quot;mf-id-1&quot; class=&quot;margin-toggle&quot; /&gt;&lt;span class=&quot;marginnote&quot;&gt;&lt;img class=&quot;fullwidth&quot; src=&quot;/tufte-jekyll/assets/img/rhino.png&quot; /&gt;&lt;br /&gt;F.J. Cole, “The History of Albrecht Dürer’s Rhinoceros in Zoological Literature,” &lt;em&gt;Science, Medicine, and History: Essays on the Evolution of Scientific Thought and Medical Practice&lt;/em&gt; (London, 1953), ed. E. Ashworth Underwood, 337-356. From page 71 of Edward Tufte’s &lt;em&gt;Visual Explanations&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
 
 &lt;p&gt;Images and graphics play an integral role in Tufte’s work. To place figures in the margin, use the custom margin figure liquid tag included in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_plugins&lt;/code&gt; directory like so:&lt;/p&gt;
 
@@ -292,7 +292,7 @@ $link-style: color; // choices are 'color' or 'underline'. Default is color usin
 
 &lt;p&gt;Yields this:&lt;/p&gt;
 
-&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/assets/img/napoleons-march.png&quot; /&gt;&lt;figcaption&gt;Napoleon’s March &lt;em&gt;(Edward Tufte’s English translation)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class=&quot;fullwidth&quot;&gt;&lt;img src=&quot;/tufte-jekyll/assets/img/napoleons-march.png&quot; /&gt;&lt;figcaption&gt;Napoleon’s March &lt;em&gt;(Edward Tufte’s English translation)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h3 id=&quot;main-column-figures&quot;&gt;Main Column Figures&lt;/h3&gt;
 
@@ -302,7 +302,7 @@ $link-style: color; // choices are 'color' or 'underline'. Default is color usin
 
 &lt;p&gt;yields this:&lt;/p&gt;
 
-&lt;figure&gt;&lt;img src=&quot;/assets/img/exports-imports.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;From Edward Tufte, &lt;em&gt;Visual Display of Quantitative Information&lt;/em&gt;, page 92&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure&gt;&lt;img src=&quot;/tufte-jekyll/assets/img/exports-imports.png&quot; /&gt;&lt;figcaption class=&quot;maincolumn-figure&quot;&gt;From Edward Tufte, &lt;em&gt;Visual Display of Quantitative Information&lt;/em&gt;, page 92&lt;/figcaption&gt;&lt;/figure&gt;
 
 &lt;h2 id=&quot;sidenotes-and-margin-notes&quot;&gt;Sidenotes and Margin notes&lt;/h2&gt;
 
@@ -624,8 +624,8 @@ etc...
 
 </description>
         <pubDate>Mon, 13 Apr 2020 05:46:04 -0400</pubDate>
-        <link>/articles/20/tufte-style-jekyll-blog</link>
-        <guid isPermaLink="true">/articles/20/tufte-style-jekyll-blog</guid>
+        <link>/tufte-jekyll/articles/20/tufte-style-jekyll-blog</link>
+        <guid isPermaLink="true">/tufte-jekyll/articles/20/tufte-style-jekyll-blog</guid>
         
         
         <category>jekyll</category>

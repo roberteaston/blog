@@ -1,8 +1,8 @@
 baseurl: "/blog"
 url: "https://roberteaston.github.io"
-title: Tufte-Jekyll
-subtitle: Content-centric blogging
-author: clay harmon
+title: The Covariant Functor
+subtitle: Preserving Arrows since 2021
+author: Robert Easton
 simple_search: http://google.com/search
 description: A Jekyll theme for content-rich sites
 name: tufte

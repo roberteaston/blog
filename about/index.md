@@ -4,7 +4,9 @@ title: Bio
 order: 3
 ---
 
-{% marginfigure "margin-figure-id" "assets/img/michigan.png" "The Upper and Lower Peninsulas." %}{% newthought "I'm a Michigan man."%} I was born and raised in the "thumb" of the Great Mitten state. I've been cheering for [U of M](https://umich.edu/) since childhood, long before I became an undergraduate there. Although it's hard to complain about the idyllic weather in SLO, I do sometimes miss the dramatic Michigan seasons, which broke up the year into such distinct periods. The colored leaves and crisp air of Fall, when the new school year had begun and everything was promise and potential. The darkness and biting cold of Winter, a time of introspection interspersed with holiday revelry. Spring, when the thaw broke and the sun shone warmly once more. And finally the slow build towards Summer, filled with hot days, cool drinks, relaxation, and adventure.
+{% marginfigure "margin-figure-id" "assets/img/michigan.png" "The Upper and Lower Peninsulas." %}{% newthought "I'm a Michigan man."%} I was born and raised in the "thumb" of the Great Mitten state. I've been cheering for [U of M](https://umich.edu/) since childhood, long before I became an undergraduate there. Although it's hard to complain about the idyllic weather in SLO, I do sometimes miss the dramatic Michigan seasons, which broke up the year into such distinct periods. How can you not appreciate fall colors like these?
+
+{% maincolumn "assets/img/michigan_fall.jpg" "" %}
 
 - 5th grade up through undergrad
 

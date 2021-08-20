@@ -11,6 +11,8 @@ order: 3
 
 {% fullwidth "assets/img/ImageQuilt-Michigan.png" ""%}
 
+<br>
+
 I discovered math sometime around 5<sup>th</sup> grade, when I was given a test to see if I would qualify for a "talented and gifted" program. I remember asking asking why some of the numbers had exclamation marks and what that meant{% marginnote "Thus was my first encounter with factorials." %}. It was a glimpse of math beyond basic arithmetic and I found it fascinating. But I was also interested in physics and chemistry, and I envisioned becoming some type of "mad scientist" when I grew up, creating exotic techologies like portals and anti-gravity machines.
 
 I arrived at the University of Michigan fully expecting to major in math and physics (and maybe also chemistry), but I quickly discovered a strong preference for the theoretical over the practical. Also, I hated units. It seems I wasn't alone:
